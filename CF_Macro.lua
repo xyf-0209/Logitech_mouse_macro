@@ -70,7 +70,7 @@ function OnEvent(event, arg)
             -- 开关开启时需要进行初始化一次随机种子。
             if (setSeed) then
                 -- 初始化随机种子（注意：罗技lua不支持os.time()，这里实现GetTimeStamp()函数模拟时间戳）
-                GetTimeStamp()
+                math.randomseed(GetTimeStamp())
                 setSeed = false
             end
             -- 调用curGun道具的方法
