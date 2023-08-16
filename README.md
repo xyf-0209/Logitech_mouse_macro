@@ -39,7 +39,7 @@
 
 #### 使用Git
 
-从gitee克隆仓库:
+从github克隆仓库:
 
 ```shell
 git clone https://gitee.com/x-yf/logitech-cf-macro.git
