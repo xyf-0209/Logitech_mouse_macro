@@ -42,7 +42,7 @@
 从github克隆仓库:
 
 ```shell
-git clone https://gitee.com/x-yf/logitech-cf-macro.git
+git clone https://github.com/xyf-0209/Logitech_mouse_macro.git
 ```
 
 ### 安装
