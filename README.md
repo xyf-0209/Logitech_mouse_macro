@@ -56,6 +56,10 @@ git clone https://github.com/xyf-0209/Logitech_mouse_macro.git
 2.  不要开启板载内存模式，该模式目前已无法写入宏操作。
 3.  请勿用于排位与人机。
 
+## 联系我
+1. 邮箱：yifanxu@petalmail.com
+2. [个人网站](https://www.xuyifan.top/)
+
 ## 特别说明
 
 1.  本脚本基于[Afool4U](https://github.com/Afool4U)发布的[Logi_purgatory_macro](https://github.com/Afool4U/Logi_purgatory_macro#%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87)
